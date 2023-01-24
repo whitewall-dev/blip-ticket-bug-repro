@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js & lt --port 8000"
+  },
+  "dependencies": {
+    "localtunnel": "^2.0.2"
+  }
+}
